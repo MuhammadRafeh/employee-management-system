@@ -1,0 +1,16 @@
+ID          NAME          AGE         GENDER          SALARY          DEPARTMENT
+8123        Rafeh          23          F               50000           CS
+3223        Shikari        23          M               43000           cs
+4876        Akif           21          M               23000           CS
+2992        Moeen          25          M               45000           CS
+6234        Amna           20          F               40000           SE
+5335        Aliza          56          F               32000           CS
+4356        Rimsha         32          F               12000           CS
+4567        Talha          87          M               23765           CS
+7564        Amna           30          F               21999           CS
+1234        Inshaal        19          M               99000           EE
+4373        Alina          32          F               54000           EE
+7912        Qasim          43          M               34000           CS
+1209        Taiba          54          M               45000           EE
+1298        Umar           32          M               43000           EE
+1298        Umair          32          M               43000           EE
