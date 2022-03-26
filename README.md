@@ -1,5 +1,5 @@
 # Employee Management System
-A Cpp Program using File Handling
+Employee Management System is a C++ program using file handling
 
 ## Preview
 
